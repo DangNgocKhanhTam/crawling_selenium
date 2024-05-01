@@ -1,1 +1,201 @@
-restaurant_name,address_restaurant,stars,open_time,cost_restaurant,cost_service,voucher,restaurant_link
+restaurant_name,address_restaurant,stars,open_time,cost_restaurant,cost_service,voucher
+Bánh Mì Bà Huynh - Cống Quỳnh,"185k Cống Quỳnh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,06:00 - 22:00,30.000 - 58.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Mì Huynh Hoa - Bánh Mì Pate,"26 Lê Thị Riêng, P. Bến Thành, Quận 1, TP. HCM",4.5,06:00 - 22:00,38.000 - 38.000, 2.0% Phí phục vụ , VIB giảm 30k
+Gà Rán & Burger McDonald's Đa Kao,"2 - 6 Bis Điện Biên Phủ, Quận 1, TP. HCM",4.5,00:00 - 23:59,50.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Sườn Cô Giang - Đinh Tiên Hoàng,"14B Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM",4.5,00:00 - 23:59,15.000 - 29.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Rán & Burger McDonald's Ben Thanh,"2-2A Trần Hưng Đạo, P. Bến Thành, Quận 1, TP. HCM",4.5,00:00 - 23:59,50.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Mì Ý Double B - Trần Hưng Đạo,"Hẻm 391 TK40/24 Trần Hưng Đạo, P. Cầu Kho, Quận 1, TP. HCM",4.5,08:00 - 22:00,17.000 - 75.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Gà Hải Nam - Calmette,"205-207 Calmette, P. Nguyễn Thái Bình, Quận 1, TP. HCM",4.5,09:00 - 20:30,50.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Giò Chả Minh Châu - Lý Tự Trọng,"238 Lý Tự Trọng, P. Bến Thành, Quận 1, TP. HCM",4.5,06:15 - 17:55,100.000 - 330.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Văn Phòng Tuấn Kiệt - 25Bis Cô Giang,"25Bis Cô Giang, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,08:00 - 20:00,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+"Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Quận 1","19/2 Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, TP. HCM",4.5,08:00 - 21:00,40.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Chiên & Nui Xào Bò - Cống Quỳnh,"102/12 Cống Quỳnh, Quận 1, TP. HCM",4.5,00:00 - 02:30 | 13:30 - 23:59,15.000 - 33.000, 0.0% Phí phục vụ , VIB giảm 30k
+Út Hương - Cơm & Món Xào,"TK18/1 Nguyễn Cảnh Chân, P. Cầu Kho, Quận 1, TP. HCM",4.5,07:30 - 23:59,35.000 - 220.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Mì Trạng - Lương Hữu Khánh,"4 Lương Hữu Khánh, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,06:00 - 21:30,20.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Chay Diệu Vy - Đề Thám,"61 Đề Thám, P. Cô Giang, Quận 1, TP. HCM",4.5,06:00 - 21:00,15.000 - 35.000, 0.0% Phí phục vụ , VIB giảm 30k
+Mỳ Ý Spaghetti To Go - Trần Hưng Đạo,"393/9 Trần Hưng Đạo, P. Cầu Kho, Quận 1, TP. HCM",4.5,07:35 - 21:30,25.000 - 95.000, 0.0% Phí phục vụ , VIB giảm 30k
+Thành Đạt - Hủ Tiếu Nam Vang - Nguyễn Hữu Cầu,"22B Nguyễn Hữu Cầu, P. Tân Định, Quận 1, TP. HCM",4.5,00:00 - 23:59,45.000 - 65.000, 0.0% Phí phục vụ , VIB giảm 30k
+Emy - Trái Cây Tươi Và Ăn Vặt - Nguyễn Trãi,"212A/A37 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,08:00 - 23:00,19.000 - 79.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Tấm Bụi Sài Gòn - Thạch Thị Thanh,"100 Thạch Thị Thanh, P. Tân Định, Quận 1, TP. HCM",4.5,06:30 - 22:00,30.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Burger King - Phạm Ngũ Lão,"275 - 277 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,08:45 - 23:59,80.000 - 121.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hey Pelo - Original French Tacos - Trần Khắc Chân,"Số 60 Trần Khắc Chân, P.Tân Định, Quận 1, TP. HCM",4.5,10:30 - 22:15,30.000 - 110.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bready Bánh Mì Tươi - Burger Đĩa Bay - Mạc Đĩnh Chi,"62 Mạc Đĩnh Chi, P. Đakao, Quận 1, TP. HCM",4.5,06:20 - 21:30,40.000 - 66.000, 0.0% Phí phục vụ , VIB giảm 30k
+Con Gà Mái - Cơm Gà Phú Yên - Trần Cao Vân,"21A Trần Cao Vân, P. Đa Kao, Quận 1, TP. HCM",4.5,07:00 - 21:30,10.000 - 280.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Rán KFC - Trịnh Văn Cấn - Nguyễn Thái Học,"35 Trịnh Văn Cấn, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,09:15 - 21:15,30.000 - 88.000, 0.0% Phí phục vụ , VIB giảm 30k
+Thế Giới Donut - Hai Bà Trưng,"210 Hai Bà Trưng, P. Tân Định, Quận 1, TP. HCM",4.5,09:00 - 21:30,12.000 - 33.000, 0.0% Phí phục vụ , VIB giảm 30k
+Thành Đạt - Hủ Tíu Nam Vang - Cô Bắc,"34 Cô Bắc, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,00:00 - 23:59,35.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Mì Thịt 10k - Bùi Thị Xuân,"77A Bùi Thị Xuân, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,06:00 - 21:00,20.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Cuốn Ba Miền - Trần Quang Khải,"205 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,00:00 - 23:59,33.000 - 45.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Rán Popeyes - Điện Biên Phủ,"58/13 Nguyễn Bỉnh Khiêm (Vòng Xoay Nguyễn Bỉnh Khiêm), P. Đa Kao, Quận 1, TP. HCM",4.5,10:00 - 21:30,30.000 - 170.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Trắng & Cháo Đậu HP - Phạm Viết Chánh,"112 Phạm Viết Chánh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,07:00 - 12:58 | 15:00 - 21:00,5.000 - 25.000, 0.0% Phí phục vụ , VIB giảm 30k
+Busan Korean Food - Món Hàn Quốc - Nguyễn Thái Học,"45/4 Nguyễn Thái Học, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,09:30 - 21:30,30.000 - 270.000, 0.0% Phí phục vụ , VIB giảm 30k
+Quán Chay Sala,"71C Nguyễn Thị Minh Khai, P. Bến Thành, Quận 1, TP. HCM",4.5,06:00 - 20:55,17.000 - 45.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bonchon Chicken Vietnam - Lý Tự Trọng,"43 Lý Tự Trọng, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 21:59,25.000 - 250.000, 0.0% Phí phục vụ , VIB giảm 30k
+Kem Bơ - Trái Cây Tô 251 - Nguyễn Thị Minh Khai,"18A Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP. HCM",4.5,00:00 - 02:30 | 08:00 - 23:59,10.000 - 25.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bigbro Korean Hotdog,"85 Hồ Tùng Mậu, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:00 - 21:45,50.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cá Viên Chiên - Lương Hữu Khánh,"33A Lương Hữu Khánh, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,15:45 - 20:00,20.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Dimsum Homemade - Há Cảo Đặc Biệt - Trần Khắc Chân,"77 Trần Khắc Chân, Quận 1, TP. HCM",4.5,08:00 - 21:45,30.000 - 30.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bò Kho Cô Mai - Since 1984 - Nguyễn Thị Minh Khai,"17C Đường Nguyễn Thị Minh Khai, Quận 1, TP. HCM",4.5,07:30 - 21:00,10.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Chè Khúc Bạch Thanh - Trần Quang Khải,"68/210 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,09:15 - 22:10,20.000 - 33.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Tấm Sườn Que - Nguyễn Thị Minh Khai,"15M Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",4.5,07:00 - 22:00,20.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Thành Đạt - Hủ Tiếu Nam Vang - Phạm Ngũ Lão,"239 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,00:00 - 23:59,35.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Phở Hà - Hải Triều - Since 1990,"19 Hải Triều, P. Bến Nghé, Quận 1, TP. HCM",4.5,00:00 - 23:59,45.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Bò Thốt Nốt COCOCake - Lò Bánh Minh Khai,"18A/29 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP. HCM",4.5,08:30 - 20:20,95.000 - 150.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Trắng - Cháo Thịt Bằm BK House - Phạm Viết Chánh,"112B Phạm Viết Chánh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,00:00 - 23:59,5.000 - 40.000, 0.0% Phí phục vụ , VIB giảm 30k
+Ngoại Ưi - Bánh Tráng Chấm - Cô Giang,"168 Cô Giang, P. Cô Giang, Quận 1, TP. HCM",4.5,00:00 - 01:00 | 11:59 - 23:59,10.000 - 20.000, 0.0% Phí phục vụ , VIB giảm 30k
+Quán 185 - Cháo Trắng & Cơm Bình Dân - Nguyễn Trãi,"197 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,00:01 - 23:59,20.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Sườn Chú Chen - Nguyễn Trãi,"281 - 283 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,00:00 - 02:50 | 07:00 - 23:59,35.000 - 79.000, 0.0% Phí phục vụ , VIB giảm 30k
+TOUS les JOURS - Hai Bà Trưng,"180 Hai Bà Trưng, Quận 1, TP. HCM",4.5,07:00 - 21:00,30.000 - 66.000, 0.0% Phí phục vụ , VIB giảm 30k
+Chivago Chicken - Gà Rán Hàn Quốc & Bia - Nguyễn Thái Học,"161 Nguyễn Thái Học, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,00:00 - 01:45 | 11:00 - 23:59,100.000 - 500.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hà La Cà - Bánh Mì Bình Định & Bánh Cuốn Tây Sơn - Huỳnh Khương Ninh,"20 Huỳnh Khương Ninh, P. Đa Kao, Quận 1, TP. HCM",4.5,10:30 - 22:00,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Sườn Cô Giang - Cô Giang,"185 Cô Giang, P. Cô Giang, Quận 1, TP. HCM",4.5,06:45 - 19:00,10.000 - 40.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Mì Thịt 10k - Bùi Thị Xuân,"77A Bùi Thị Xuân, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,06:00 - 21:00,20.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Cuốn Ba Miền - Trần Quang Khải,"205 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,00:00 - 23:59,33.000 - 45.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Rán Popeyes - Điện Biên Phủ,"58/13 Nguyễn Bỉnh Khiêm (Vòng Xoay Nguyễn Bỉnh Khiêm), P. Đa Kao, Quận 1, TP. HCM",4.5,10:00 - 21:30,30.000 - 170.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Trắng & Cháo Đậu HP - Phạm Viết Chánh,"112 Phạm Viết Chánh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,07:00 - 12:58 | 15:00 - 21:00,5.000 - 25.000, 0.0% Phí phục vụ , VIB giảm 30k
+Busan Korean Food - Món Hàn Quốc - Nguyễn Thái Học,"45/4 Nguyễn Thái Học, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,09:30 - 21:30,30.000 - 270.000, 0.0% Phí phục vụ , VIB giảm 30k
+Quán Chay Sala,"71C Nguyễn Thị Minh Khai, P. Bến Thành, Quận 1, TP. HCM",4.5,06:00 - 20:55,17.000 - 45.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bonchon Chicken Vietnam - Lý Tự Trọng,"43 Lý Tự Trọng, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 21:59,25.000 - 250.000, 0.0% Phí phục vụ , VIB giảm 30k
+Kem Bơ - Trái Cây Tô 251 - Nguyễn Thị Minh Khai,"18A Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP. HCM",4.5,00:00 - 02:30 | 08:00 - 23:59,10.000 - 25.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bigbro Korean Hotdog,"85 Hồ Tùng Mậu, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:00 - 21:45,50.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cá Viên Chiên - Lương Hữu Khánh,"33A Lương Hữu Khánh, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,15:45 - 20:00,20.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Dimsum Homemade - Há Cảo Đặc Biệt - Trần Khắc Chân,"77 Trần Khắc Chân, Quận 1, TP. HCM",4.5,08:00 - 21:45,30.000 - 30.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bò Kho Cô Mai - Since 1984 - Nguyễn Thị Minh Khai,"17C Đường Nguyễn Thị Minh Khai, Quận 1, TP. HCM",4.5,07:30 - 21:00,10.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Chè Khúc Bạch Thanh - Trần Quang Khải,"68/210 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,09:15 - 22:10,20.000 - 33.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Tấm Sườn Que - Nguyễn Thị Minh Khai,"15M Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",4.5,07:00 - 22:00,20.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Thành Đạt - Hủ Tiếu Nam Vang - Phạm Ngũ Lão,"239 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,00:00 - 23:59,35.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Phở Hà - Hải Triều - Since 1990,"19 Hải Triều, P. Bến Nghé, Quận 1, TP. HCM",4.5,00:00 - 23:59,45.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Bò Thốt Nốt COCOCake - Lò Bánh Minh Khai,"18A/29 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP. HCM",4.5,08:30 - 20:20,95.000 - 150.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Trắng - Cháo Thịt Bằm BK House - Phạm Viết Chánh,"112B Phạm Viết Chánh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,00:00 - 23:59,5.000 - 40.000, 0.0% Phí phục vụ , VIB giảm 30k
+Ngoại Ưi - Bánh Tráng Chấm - Cô Giang,"168 Cô Giang, P. Cô Giang, Quận 1, TP. HCM",4.5,00:00 - 01:00 | 11:59 - 23:59,10.000 - 20.000, 0.0% Phí phục vụ , VIB giảm 30k
+Quán 185 - Cháo Trắng & Cơm Bình Dân - Nguyễn Trãi,"197 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,00:01 - 23:59,20.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Sườn Chú Chen - Nguyễn Trãi,"281 - 283 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,00:00 - 02:50 | 07:00 - 23:59,35.000 - 79.000, 0.0% Phí phục vụ , VIB giảm 30k
+TOUS les JOURS - Hai Bà Trưng,"180 Hai Bà Trưng, Quận 1, TP. HCM",4.5,07:00 - 21:00,30.000 - 66.000, 0.0% Phí phục vụ , VIB giảm 30k
+Chivago Chicken - Gà Rán Hàn Quốc & Bia - Nguyễn Thái Học,"161 Nguyễn Thái Học, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,00:00 - 01:45 | 11:00 - 23:59,100.000 - 500.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hà La Cà - Bánh Mì Bình Định & Bánh Cuốn Tây Sơn - Huỳnh Khương Ninh,"20 Huỳnh Khương Ninh, P. Đa Kao, Quận 1, TP. HCM",4.5,10:30 - 22:00,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Cháo Sườn Cô Giang - Cô Giang,"185 Cô Giang, P. Cô Giang, Quận 1, TP. HCM",4.5,06:45 - 19:00,10.000 - 40.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cu Sữa - Hot Dog,"59 Nguyễn Du, P. Bến Nghé, Quận 1, TP. HCM",4.5,14:00 - 23:00,10.000 - 20.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Rán KFC - Nguyễn Văn Giai,"2 Nguyễn Huy Tự, P. Đa Kao, Quận 1, TP. HCM",4.5,09:00 - 23:59,30.000 - 88.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Chả Hà Nội 1982 - Đinh Tiên Hoàng,"18 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM",4.5,08:00 - 21:00,35.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Gà Xối Mỡ Su Su,"117/1D Cống Quỳnh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,10:30 - 20:30,28.000 - 44.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hồng Hạnh - Bánh Cuốn & Món Huế,"17A Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",4.5,06:00 - 22:40,25.000 - 77.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cô Bông - Bún Mắm - Chợ Tân Định,"Đối Diện 125 Nguyễn Hữu Cầu, P. Tân Định, Quận 1, TP. HCM",4.5,05:30 - 17:00,35.000 - 45.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Cuốn Tây Hồ - Đinh Tiên Hoàng,"127 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM",4.5,06:00 - 19:45,30.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Wow Chicken - Gà Rán & Cơm Gà - Sương Nguyệt Ánh,"1A Ter Sương Nguyệt Ánh, P. Bến Thành, Quận 1, TP. HCM",4.5,09:00 - 22:00,5.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Riêu Cua Ốc Phang Rang Ninh Thuận - Nguyễn Thái Bình,"66 Nguyễn Thái Bình, P. Nguyễn Thái Bình, Quận 1, TP. HCM",4.5,06:00 - 21:30,35.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Quán Nem - Nem Cua Biển & Bún Chả - Nguyễn Thị Minh Khai,"15E Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 20:30,20.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+A Tùng - Bánh Mì Bò Nướng Bơ Cambodia - Cống Quỳnh,"171 Cống Quỳnh, Quận 1, TP. HCM",4.5,14:50 - 22:25,5.000 - 15.000, 0.0% Phí phục vụ , VIB giảm 30k
+Phá Lấu Lì - Sương Nguyệt Ánh,"1A Sương Nguyệt Ánh, P. Bến Thành, Quận 1, TP. HCM",4.5,11:40 - 20:50,30.000 - 110.000, 0.0% Phí phục vụ , VIB giảm 30k
+Texas Chicken - Nguyễn Thái Học,"115 Nguyễn Thái Học , Quận 1, TP. HCM",4.5,09:00 - 22:00,30.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+The Pizza Company - Nguyễn Thái Học,"105 - 107 Nguyễn Thái Học, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,10:00 - 21:45,100.000 - 250.000, 0.0% Phí phục vụ , VIB giảm 30k
+Miss Đác - Chè Không Ngọt - Hoàng Sa,"111B Hoàng Sa, P. Đa Kao, Quận 1, TP. HCM",4.5,09:15 - 21:45,0 - 20.000, 0.0% Phí phục vụ , VIB giảm 30k
+Thanh Thành Đạt - Hủ Tiếu Nam Vang - 43 Đinh Tiên Hoàng,"43 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM",4.5,06:00 - 22:00,35.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Vịt Quay Huỳnh Ký - Cầu Bông,"2 Bis Trần Quang Khải, Quận 1, TP. HCM",4.5,06:00 - 20:45,100.000 - 220.000, 0.0% Phí phục vụ , VIB giảm 30k
+Nem Nướng D'ran - Since 1968 - Nguyễn Thị Minh Khai,"17/7B Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 19:30,40.000 - 70.000, 0.0% Phí phục vụ , VIB giảm 30k
+Marukame Udon - Udon & Tempura - Hai Bà Trưng,"342 - 344 Hai Bà Trưng, P. Tân Định, Quận 1, TP. HCM",4.5,08:00 - 21:00,60.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Rán KFC - Lê Lai,"78 Lê Lai, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,09:30 - 22:00,30.000 - 88.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Mì Anh Phán - Bánh Mì Gà & Thịt Nguội,"145 Cống Quỳnh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,05:35 - 22:30,10.000 - 20.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hủ Tiếu Mực Ông Già - Tôn Thất Thiệp,"62/3 Tôn Thất Thiệp, P. Bến Nghé, Quận 1, TP. HCM",4.5,06:00 - 21:00,30.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Đậu Mạc Văn Khoa - Trần Quang Khải,"90 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,10:00 - 22:00,45.000 - 140.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Ngon Hà Nội - 131 Nguyễn Du,"131 Nguyễn Du, P. Bến Thành, Quận 1, TP. HCM",4.5,07:30 - 19:00,11.000 - 25.000, 0.0% Phí phục vụ , VIB giảm 30k
+Nem Nướng D'ran Since 1968 - Healthy & Fresh - Nguyễn Trãi,"212B/D13 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,10:00 - 19:30,40.000 - 70.000, 0.0% Phí phục vụ , VIB giảm 30k
+Vina Chuối - Huỳnh Thúc Kháng,"25 Huỳnh Thúc Kháng, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:00 - 22:00,8.000 - 8.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cô Thảo Tôm Cá - Cá Hồi Ngâm Tương - Trần Đình Xu,"42/2 Trần Đình Xu, P. Cô Giang, Quận 1, TP. HCM",4.5,09:00 - 22:30,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Phú Bến Tre - Hủ Tiếu Mực & Bún Thái Hải Sản,"2Bis Mai Thị Lựu, P. Dakao, Quận 1, TP. HCM",4.5,06:30 - 21:00,30.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Dimsum Homemade - Há Cảo Ngũ Sắc - Nguyễn Thị Minh Khai,"101 Nguyễn Thị Minh Khai, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,09:00 - 21:30,30.000 - 30.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Bò Huế Đông Ba - Since 1998,"207B Nguyễn Văn Thủ, P. Đa Kao, Quận 1, TP. HCM",4.5,06:30 - 21:00,38.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Mì & Sữa Bắp 122 - Bùi Thị Xuân,"122E Bùi Thị Xuân, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,00:00 - 01:00 | 05:30 - 23:59,20.000 - 33.000, 0.0% Phí phục vụ , VIB giảm 30k
+Marukame Udon - Udon & Tempura - Lý Tự Trọng,"215 Lý Tự Trọng, P. Bến Thành, Quận 1, TP. HCM",4.5,07:15 - 21:00,60.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+MANMARU - Ẩm Thực Nhật Bản - Mạc Đĩnh Chi,"71 Mạc Đĩnh Chi, P. Đa Kao, Quận 1, TP. HCM",4.5,10:45 - 23:00,150.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+"Home Mì - Mì Ý, Salad & Gà Chiên - Shop Online","65A Cách Mạng Tháng 8, P. Bến Thành, Quận 1, TP. HCM",4.5,09:30 - 21:30,27.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+DODO PIZZA - Trần Hưng Đạo ,"147A Trần Hưng Đạo, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,10:00 - 21:30,68.000 - 525.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bà Xã Vegan - Nhà Hàng Chay - Pasteur,"178/4 Pasteur, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:00 - 21:40,40.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Vạn Quán - Lẩu Gà Lá É - Cô Giang,"45 Cô Giang, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,09:45 - 22:00,30.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Quán Ngon - Bún Chả Hà Nội & Đặc Sản Vùng Miền - Đề Thám,"209 Đề Thám, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,09:30 - 22:45,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Con Gà Mái - Cơm Gà Phú Yên - Nguyễn Đình Chiểu,"72 Nguyễn Đình Chiểu, P. Đa Kao, Quận 1, TP. HCM",4.5,07:30 - 21:00,28.000 - 45.000, 0.0% Phí phục vụ , VIB giảm 30k
+Phở Phú Vương - Nguyễn Thái Bình,"120 Nguyễn Thái Bình, P. Nguyễn Thái Bình, Quận 1, TP. HCM",4.5,06:00 - 21:30,50.000 - 80.000, 0.0% Phí phục vụ , VIB giảm 30k
+"Quán Bà Ba - Hủ Tiếu, Mỳ & Bánh Mì Bò Kho","275D/5 Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,08:00 - 19:00,40.000 - 40.000, 0.0% Phí phục vụ , VIB giảm 30k
+Miến Cua 94 - Chính Gốc,"94 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM",4.5,08:30 - 21:00,50.000 - 110.000, 0.0% Phí phục vụ , VIB giảm 30k
+Ốc Bắc Mình Ơi Q1 - Hồ Hảo Hớn,"62A Hồ Hảo Hớn, P. Cô Giang, Quận 1, TP. HCM",4.5,11:26 - 22:30,20.000 - 90.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Tấm Phúc Lộc Thọ - 236 Đinh Tiên Hoàng,"236 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM",4.5,06:00 - 22:00,32.000 - 139.000, 0.0% Phí phục vụ , VIB giảm 30k
+BEAR KHOAI - Khoai Tây Chiên Gà Chiên Sốt Nhiều Vị - Trần Khắc Chân,"89 Trần Khắc Chân, P. Tân Định, Quận 1, TP. HCM",4.5,10:00 - 21:50,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Sương Sâm Tâm Việt - Nguyễn Thái Học,"23 Nguyễn Thái Học, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,10:00 - 16:30,25.000 - 35.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Thái Hải Sản - Vân Trường - Trần Quang Khải,"102/2 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,08:00 - 23:00,35.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gimbap Korean Food - Món ăn Hàn Quốc,"43/3 Nguyễn Thái Học, P. Cầu Ông Lãnh, Quận 1, TP. HCM",4.5,10:00 - 21:30,30.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Ta Xứ Quảng - Nguyễn Văn Cừ,"116 Nguyễn Văn Cừ, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,07:30 - 22:00,10.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Thế Giới Tàu Hũ - Trần Đình Xu,"122D Trần Đình Xu, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,10:00 - 22:00,10.000 - 44.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Canh Cua Út Thảo - Lê Thánh Tôn,"171 Lê Thánh Tôn, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:00 - 22:00,30.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Chewy Chewy - Cafe & Bánh - Trần Hưng Đạo,"34 Trần Hưng Đạo, P.  Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,09:00 - 21:00,20.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Chả Phố Hàng Quạt,"271 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,06:30 - 22:00,8.000 - 42.000, 0.0% Phí phục vụ , VIB giảm 30k
+"Cơm Gà, Mẹt Gà, Gỏi - Gà Ta Ngon Số 1 – 226 Đinh Tiên Hoàng","226 Đinh Tiên Hoàng, P. Đa Kao, Quận 1, TP. HCM",4.5,09:00 - 20:50,20.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Bò Hoàng Kim - Bò Kho Bánh Mì & Hủ Tiếu Bò Kho - Tôn Thất Đạm,"119 Tôn Thất Đạm, P. Bến Nghé, Quận 1, TP. HCM",4.5,07:00 - 21:10,30.000 - 45.000, 0.0% Phí phục vụ , VIB giảm 30k
+Xôi Chè Bùi Thị Xuân - Bùi Thị Xuân,"111 Bùi Thị Xuân, P. Phạm Ngũ Lão , Quận 1, TP. HCM",4.5,06:30 - 21:30,25.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hẻm Fast Food - Món Hàn Quốc - Nguyễn Cư Trinh,"75 Nguyễn Cư Trinh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,10:00 - 21:30,10.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Twelve - Cơm Gà Hải Nam Singapore - Bùi Viện,"207 Bùi Viện, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,00:00 - 01:30 | 09:00 - 23:59,20.000 - 500.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Chả Bà Bính - Nguyễn Trung Ngạn,"5/4 Nguyễn Trung Ngạn, P. Bến Nghé, Quận 1, TP. HCM",4.5,07:00 - 21:00,50.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Little Bodhi Tree Saigon - Nhà Hàng Chay,"185/16 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,09:30 - 21:30,400.000 - 700.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Rán & Burger McDonald's Nguyen Hue,"123 - 125 Nguyễn Huệ, P. Bến Nghé, Quận 1, TP. HCM",4.5,08:00 - 22:50,25.000 - 80.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Cuốn Ba Miền - Đề Thám,"148 Đề Thám, P. Cô Giang, Quận 1, TP. HCM",4.5,05:45 - 19:45,20.000 - 30.000, 0.0% Phí phục vụ , VIB giảm 30k
+Dì Năm Sa Đéc - Hủ Tiếu (Hủ Tíu) & Bánh Tằm,"166 Bùi Thị Xuân, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,06:00 - 22:00,10.000 - 45.000,ShopeeFood, VIB giảm 30k
+Daiichi - Ramen & Curry - Thái Văn Lung,"8A/2B2 Thái Văn Lung, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:15 - 23:59,10.000 - 180.000, 0.0% Phí phục vụ , VIB giảm 30k
+Ăn Vặt RIO - Shop Online,"95/34 Lê Thị Riêng, P. Bến Thành, Quận 1, TP. HCM",4.5,00:00 - 23:59,80.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Phở Thìn By Sol - Hải Triều,"27 Hải Triều, P. Bến Nghé, Quận 1, TP. HCM",4.5,06:30 - 23:45,20.000 - 500.000, 0.0% Phí phục vụ , VIB giảm 30k
+"Bánh Bao, Há Cảo & Xíu Mại - Đề Thám","57A Đề Thám, P. Cô Giang, Quận 1, TP. HCM",4.5,14:30 - 22:30,10.000 - 30.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bà Xã Vegan - Nhà Hàng Chay - Nguyễn Trãi,"245/5 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,09:00 - 21:40,10.000 - 195.000, 0.0% Phí phục vụ , VIB giảm 30k
+Lotteria - Trần Hưng Đạo,"95A Trần Hưng Đạo, Quận 1, TP. HCM",4.5,08:00 - 22:00,30.000 - 77.000, 0.0% Phí phục vụ , VIB giảm 30k
+Nhà Hàng Unatoto - Cơm Lươn Nhật Bản,"56 Trương Định, P. Bến Thành, Quận 1, TP. HCM",4.5,11:00 - 21:30,119.000 - 499.000, 0.0% Phí phục vụ , VIB giảm 30k
+CoCo Ichibanya - Lý Tự Trọng,"13 Lý Tự Trọng, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 21:30,48.000 - 153.000, 0.0% Phí phục vụ , VIB giảm 30k
+Chè Vân - Chợ Tân Định,"Đối Diện 125 Nguyễn Hữu Cầu (Bên Hong Chợ Tân Định), P. Tân Định, Quận 1, TP. HCM",4.5,07:00 - 19:00,8.000 - 20.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm - Mì Trộn MU Summer,"214/B17 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,11:00 - 23:59,7.000 - 66.000, 0.0% Phí phục vụ , VIB giảm 30k
+Tenryu Udon - 52 Tôn Thất Thiệp,"52 Tôn Thất Thiệp, P. Bến Nghé, Quận 1, TP. HCM",4.5,11:00 - 23:00,20.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Bò Huế Nam Giao - Đề Thám,"242 Đề Thám, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,07:00 - 23:00,25.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Fruit Crush - Trái Cây Tươi & Ăn Vặt - Nguyễn Thị Minh Khai,"25/5 Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 22:30,19.000 - 79.000, 0.0% Phí phục vụ , VIB giảm 30k
+Cơm Tấm Thuận Kiều - Tôn Thất Tùng,"26 Tôn Thất Tùng, P. Bến Thành, Quận 1, TP. HCM",4.5,07:00 - 20:20,25.000 - 275.000, 0.0% Phí phục vụ , VIB giảm 30k
+Chickita - Gà Nướng Lửa Hồng - Hồ Tùng Mậu,"94 Hồ Tùng Mậu, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 21:00,35.000 - 430.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bà Bành Bakery - Bông Lan Trứng Muối - Sương Nguyệt Ánh,"1 Sương Nguyệt Ánh, P. Bến Thành, Quận 1, TP. HCM",4.5,00:00 - 03:00 | 08:00 - 23:59,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Bò Kho Cô Mai - Since 1984 - 71 Hồ Tùng Mậu,"71 Hồ Tùng Mậu, P. Bến Nghé, Quận 1, TP. HCM",4.5,07:15 - 21:15,10.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Milo Dầm - Chung Cư 42,"Tầng Trệt, Tầng Trệt Chung Cư 42, 42 Tôn Thất Hiệp, P. Bến Nghé, Quận 1, TP. HCM",4.5,08:00 - 22:00,20.000 - 30.000, 0.0% Phí phục vụ , VIB giảm 30k
+Nhất Thiên Mộc - Soup Vi Cá Bangkok,"95 Phan Kế Bính, Phường Đa Kao, Quận 1, TP. HCM",4.5,09:15 - 20:45,80.000 - 320.000, 0.0% Phí phục vụ , VIB giảm 30k
+Be An Vegetarian Cafe – Nhà Hàng Cà Phê Chay - 99 Nguyễn Huệ,"99 Nguyễn Huệ, P.Bến Nghé, Quận 1, TP. HCM",4.5,10:30 - 20:45,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Sơn Nga Phở Gà - Nguyễn Đình Chiểu,"48 Nguyễn Đình Chiểu, P. Đa Kao, Quận 1, TP. HCM",4.5,05:45 - 20:00,30.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+"Chú Phúc - Mì Xào, Nui Xào & Cơm Chiên","Hẻm Công Viên 173 Hoàng Sa, P. Tân Định, Quận 1, TP. HCM, Quận 1, TP. HCM",4.5,07:30 - 20:00,35.000 - 50.000, 0.0% Phí phục vụ , VIB giảm 30k
+Gà Nướng Cái Bang - Nguyễn Cư Trinh,"168/8 Nguyễn Cư Trinh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,09:30 - 22:00,60.000 - 169.000, 0.0% Phí phục vụ , VIB giảm 30k
+Miến Phở Gà 43 Mạc Đĩnh Chi - Trần Cao Vân,"Số 9 Trần Cao Vân, P. Đa Kao, Quận 1, TP. HCM",4.5,05:40 - 20:38,50.000 - 110.000, 0.0% Phí phục vụ , VIB giảm 30k
+Sukiya - Cơm Bò Hầm & Mì Ramen - Thái Văn Lung,"10Ab Thái Văn Lung, P. Bến Nghé, Quận 1, TP. HCM",4.5,07:00 - 23:15,15.000 - 99.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Chả Hà Nội 26,"8A/9C2 Thái Văn Lung, Quận 1, TP. HCM",4.5,07:00 - 20:30,30.000 - 44.000, 0.0% Phí phục vụ , VIB giảm 30k
+Trà Sữa Ấm Ấm - Trà Sữa Hồng Kông,"345/64 Trần Hưng Đạo, P. Cầu Kho, Quận 1, TP. HCM",4.5,11:00 - 20:00,30.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+"Cơm Tấm Delichi - Cơm Sườn, Cơm Ba Rọi - Nguyễn Thị Minh Khai","19/2 Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",4.5,08:00 - 21:00,42.000 - 71.000, 0.0% Phí phục vụ , VIB giảm 30k
+MATSURI - Japanese Restaurant - Pasteur,"180A Pasteur, P. Bến Thành, Quận 1, TP. HCM",4.5,10:45 - 21:50,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Chị Ba - Hủ Tiếu Chay Mỹ Tho,"214/B12Bis Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,07:00 - 21:00,5.000 - 25.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hoa Khai - Nhà Hàng Chay,"126 Nguyễn Cư Trinh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,10:00 - 21:30,25.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Toàn Ký Mì Gia - Nguyễn Văn Cừ,"106E Nguyễn Văn Cừ, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,06:00 - 23:55,10.000 - 55.000, 0.0% Phí phục vụ , VIB giảm 30k
+Pepper Lunch - Saigon Centre,"Tầng 5, Tầng 5, Saigon Centre, 65 Lê Lợi, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 20:30,100.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Vũ Trụ Mì Trộn - Nguyẽn Văn Giai,"34 Nguyễn Văn Giai, P. Đa Kao, Quận 1, TP. HCM",4.5,09:00 - 22:00,29.000 - 65.000, 0.0% Phí phục vụ , VIB giảm 30k
+Phở 24 - Nguyễn Văn Chiêm,"9 Nguyễn Văn Chiêm, P. Bến Nghé, Quận 1, TP. HCM",4.5,06:00 - 21:45,20.000 - 30.000, 0.0% Phí phục vụ , VIB giảm 30k
+Geylang Lor 9 - Cháo Ếch Singapore - Đông Du,"35 Đông Du, P. Bến Nghé, Quận 1, TP. HCM",4.5,00:00 - 02:30 | 10:30 - 23:59,200.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Nguyên Sinh 1942 - Pate Giò Chả Bánh Mì - Trần Đình Xu,"141 Trần Đình Xu, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,06:00 - 21:00,50.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Clover Korean House Food,"2/2 Phan Liêm, P. Đa Kao, Quận 1, TP. HCM",4.5,09:00 - 22:30,20.000 - 61.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bánh Canh Cua Út Thảo - Hồ Tùng Mậu,"120 Hồ Tùng Mậu, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:00 - 22:00,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+"Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Tôn Thất Đạm","119 Tôn Thất Đạm, P. Bến Nghé, Quận 1, TP. HCM",4.5,08:00 - 21:00,30.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Ba Phi - Súp Cua Gia Truyền - Tôn Thất Đạm,"138B Tôn Thất Đạm, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 23:59,8.000 - 60.000, 0.0% Phí phục vụ , VIB giảm 30k
+Nao Ăn Uống Ngay Nào - Trần Hưng Đạo,"Hẻm 391 TK 43/2 Trần Hưng Đạo, P. Cầu Kho, Quận 1, TP. HCM",4.5,13:00 - 22:00,16.000 - 68.000, 0.0% Phí phục vụ , VIB giảm 30k
+Yoshinoya Vietnam,"Tầng 2, Lầu 2, 13 Lý Tự Trọng, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:30 - 21:30,36.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Indika Saigon,"43 Nguyễn Văn Giai, P. Đa Kao, Quận 1, TP. HCM",4.5,14:00 - 21:49,30.000 - 200.000, 0.0% Phí phục vụ , VIB giảm 30k
+Shop KEM - Bánh Tráng Trộn & Ăn Vặt - Nguyễn Thị Minh Khai,"25/4 Nguyễn Thị Minh Khai, P. Đa Kao, Quận 1, TP. HCM",4.5,10:00 - 22:30,10.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Spice India - Nhà Hàng Ấn Độ - Bùi Viện,"244 Bùi Viện, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,10:00 - 23:00,25.000 - 150.000, 0.0% Phí phục vụ , VIB giảm 30k
+Vũ Hà - Bánh Bột Lọc & Bánh Nậm Huế - Shop Online,"68/329 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,10:00 - 22:00,3.500 - 40.000, 0.0% Phí phục vụ , VIB giảm 30k
+Pizza Hut - Trần Hưng Đạo,"38A Trần Hưng Đạo, P. Phạm Ngũ Lão, Quận 1, TP. HCM",4.5,09:03 - 21:45,59.000 - 164.000, 0.0% Phí phục vụ , VIB giảm 30k
+Mr.Eco Salad Healthy - Food & Drinks - Pasteur,"63/4 Pasteur, P. Bến Nghé, Quận 1, TP. HCM",4.5,09:00 - 20:30,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Nhà Tôi Vegan - Nhà Hàng Thuần Chay,"124 Nguyễn Văn Thủ, P. Đa Kao, Quận 1, TP. HCM",4.5,06:00 - 23:59,10.000 - 40.000, 0.0% Phí phục vụ , VIB giảm 30k
+Bún Đậu 46 - 60 Cao Bá Nhạ,"60 Cao Bá Nhạ, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",4.5,10:00 - 21:30,50.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hanoi Ngon - Nem Chua Rán Ăn Vặt Chuẩn Hà Nội - Huỳnh Thúc Kháng,"1 Huỳnh Thúc Kháng, P. Bến Nghé, Quận 1, TP. HCM",4.5,14:00 - 22:00,30.000 - 59.000, 0.0% Phí phục vụ , VIB giảm 30k
+Insalata Salad - Healthy Meal,"Tầng Trệt, Tầng Trệt, 71/17 Cô Bắc, P. Cô Giang, Quận 1, TP. HCM",4.5,09:30 - 20:15,89.000 - 100.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hoàng Ty Group - Đặc Sản Trảng Bàng - Mạc Đĩnh Chi,"38 Mạc Đĩnh Chi, P. Đa Kao, Quận 1, TP. HCM",4.5,10:00 - 21:30,8.000 - 374.000, 0.0% Phí phục vụ , VIB giảm 30k
+Rico Taco - Mexican Restaurant,"74/7 Hai Bà Trưng, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:00 - 21:30,100.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+Hảo Ký Mì Gia - Hủ Tiếu Xào - Đinh Công tráng,"67H/1 Đinh Công Tráng. P. Tân Định, Quận 1, TP. HCM",4.0,07:00 - 21:53,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+Baozi - Ẩm Thực Đài Loan - Hồ Tùng Mậu,"79 Hồ Tùng Mậu, P. Bến Nghé, Quận 1, TP. HCM",4.5,11:00 - 21:30,42.000 - 275.000, 0.0% Phí phục vụ , VIB giảm 30k
+Robata AN - Cơm Trưa Nhật Bản,"15C Lê Thánh Tôn, P. Bến Nghé, Quận 1, TP. HCM",4.5,10:30 - 23:30,60.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+NHÀ HÀNG KAMURA - CÁ NGỪ NHẬT BẢN,"8A/A14 Thái Văn Lung, P. Bến Nghé, Quận 1, TP. HCM",4.5,11:00 - 22:30,99.000 - 300.000, 0.0% Phí phục vụ , VIB giảm 30k
+The Wagon Wheel - American Comfort Cuisine,"200 Lê Thánh Tôn, P. Bến Thành, Quận 1, TP. HCM",4.5,11:00 - 21:45,45.000 - 575.000, 0.0% Phí phục vụ , VIB giảm 30k
+Nga 156 -  Bún Thịt Nướng - Trần Quang Khải,"156 Trần Quang Khải, P. Tân Định, Quận 1, TP. HCM",4.5,06:30 - 18:00,0 - 0, 0.0% Phí phục vụ , VIB giảm 30k
+La Fiesta - Mexican Restaurant,"128 Lý Tự Trọng, P. Bến Thành, Quận 1, TP. HCM",4.5,11:00 - 21:30,50.000 - 250.000, 0.0% Phí phục vụ , VIB giảm 30k

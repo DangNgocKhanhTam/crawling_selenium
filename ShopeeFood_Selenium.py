@@ -8,6 +8,7 @@ import time
 
 
 
+
 driver = webdriver.Chrome()
 driver.maximize_window()
 url = 'https://shopeefood.vn/ho-chi-minh/food/danh-sach-dia-diem-phuc-vu-food-tai-khu-vuc-quan-1-giao-tan-noi'
@@ -24,7 +25,7 @@ for page in load_more[1:-1]:
         for link in tag_restaurant_link: 
                 restaurant_link = link.get_attribute('href')
                 list_restaurant_link.append(restaurant_link)
-        time.sleep(1.5)
+        time.sleep(3)
 
 # Wrire file link_restaurant for back up
 
@@ -52,7 +53,7 @@ driver_restaurant_details.maximize_window()
 for restaurant_link in list_restaurant_link:
     url =restaurant_link
     driver_restaurant_details.get(url)
-    time.sleep(1.5)
+    time.sleep(6)
 
     # Restaurant Name
     tag_restaurant_name = driver_restaurant_details.find_element(by= By.XPATH, value = '//h1[@class = "name-restaurant"]')
